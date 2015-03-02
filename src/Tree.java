@@ -5,6 +5,7 @@ public class Tree {
 	
 	public Tree (){
 		Root = null ;
+		
 	}
 	
 	
