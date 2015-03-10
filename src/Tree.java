@@ -4,8 +4,7 @@ public class Tree {
 	public Node Root ;
 	
 	public Tree (){
-		Root = null ;
-		
+		Root = null ;		
 	}
 	
 	
